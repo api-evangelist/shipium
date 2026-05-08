@@ -1,0 +1,29 @@
+aid: shipium
+url: https://raw.githubusercontent.com/api-evangelist/shipium/refs/heads/main/apis.yml
+name: Shipium
+x-type: company
+description: >-
+  Shipium is a shipping platform for high-volume e-commerce, optimizing carrier selection, multi-warehouse delivery promises, and parcel routing.
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Shipping
+  - Logistics
+  - E-Commerce
+  - Carrier Selection
+  - Optimization
+created: '2026-05-08'
+modified: '2026-05-08'
+specificationVersion: '0.19'
+apis: []
+common:
+  - type: Website
+    url: https://www.shipium.com/
+  - type: Plans
+    url: plans/shipium-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/shipium-rate-limits.yml
+  - type: FinOps
+    url: finops/shipium-finops.yml
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
