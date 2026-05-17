@@ -1,7 +1,7 @@
 aid: shipium
 url: https://raw.githubusercontent.com/api-evangelist/shipium/refs/heads/main/apis.yml
 name: Shipium
-x-type: company
+kind: company
 description: >-
   Shipium is a shipping platform for high-volume e-commerce, optimizing carrier selection, multi-warehouse delivery promises, and parcel routing.
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
