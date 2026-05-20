@@ -16,6 +16,8 @@ modified: '2026-05-08'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/shipium
   - type: Website
     url: https://www.shipium.com/
   - type: Plans
