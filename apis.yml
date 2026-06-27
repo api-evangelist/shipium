@@ -26,7 +26,7 @@ common:
     url: rate-limits/shipium-rate-limits.yml
   - type: FinOps
     url: finops/shipium-finops.yml
-  - type: LLMsTxt
+  - type: LlmsText
     url: https://www.shipium.com/llms.txt
 maintainers:
   - FN: Kin Lane
