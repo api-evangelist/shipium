@@ -16,6 +16,8 @@ modified: '2026-05-08'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/shipium-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/shipium
   - type: Website
@@ -28,6 +30,8 @@ common:
     url: finops/shipium-finops.yml
   - type: LlmsText
     url: https://www.shipium.com/llms.txt
+  - type: Blog
+    url: https://www.shipium.com/blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
