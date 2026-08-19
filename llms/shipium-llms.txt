@@ -1,0 +1,41 @@
+# www.shipium.com - AI Crawler Index
+
+## Optimized Cache Location
+- AI-intended cache available at: https://llm.shipium.com/
+- Contains LLM-optimized (HTML + JSON-LD) content for improved crawlability and lower bandwidth.
+- Format: HTML + Markdown + JSON-LD
+- Optimized for: GPT, Claude, Gemini, Llama, and other LLMs
+- Original Source: https://www.shipium.com/
+
+## Access Patterns
+
+Each page is available in multiple formats:
+- HTML: [page].html (includes semantic navigation and structured data)
+- Markdown: [page].md (content only, ideal for text processing)
+
+## Machine-Readable Formats
+
+- Sitemap: /sitemap.xml (full page listing with lastmod dates)
+- Robots: /robots.txt (crawler directives)
+- This file: /llms.txt (human and AI readable index)
+- Index: /index.html (interactive hierarchical navigation)
+
+## Content Structure
+
+All processed pages include:
+- Semantic HTML5 markup (article, section, nav, header)
+- JSON-LD structured data (WebPage schema)
+- Open Graph metadata
+- Clean, script-free content
+- Preserved original metadata (title, author, date, description)
+- Hierarchical navigation context
+
+## Recommended for
+
+- Training data collection
+- Documentation analysis
+- Content understanding
+- Semantic search indexing
+- Knowledge graph construction
+- Automated summarization
+- Cross-reference analysis
