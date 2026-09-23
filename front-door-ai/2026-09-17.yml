@@ -1,0 +1,31 @@
+# Front Door AI Index — shipium — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: shipium
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: www.shipium.com
+  final_host: www.shipium.com
+  ownership: own
+  owner: shipium
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 15
+  host_score: 15
+  density: 16.72
+  words: 897
+  tiers:
+    agentic: 2
+    core: 13
+    model: 0
+  ambiguous: 6
+  top_terms:
+    AI: 11
+    automation: 3
+    copilot: 2
+    intelligence: 2
+    ML: 1
+    agent: 1
+    machine learning: 1
