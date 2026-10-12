@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/shipium/integrations
+- https://n8n.io/integrations/shipium/
+- https://composio.dev/toolkits/shipium
+- https://monid.ai/tools/shipium
+checked:
+- https://composio.dev/toolkits/shipium
+- https://monid.ai/tools/shipium
+- https://n8n.io/integrations/shipium/
+- https://zapier.com/apps/shipium/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
